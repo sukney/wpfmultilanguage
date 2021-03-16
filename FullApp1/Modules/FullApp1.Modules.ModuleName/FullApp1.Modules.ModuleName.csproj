@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>FullApp1.Modules.ModuleName</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="ViewModels\ViewBViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Prism.Wpf" Version="8.0.0.1909" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\FullApp1.Core\FullApp1.Core.csproj" />
+    <ProjectReference Include="..\..\Services\FullApp1.Services.Interfaces\FullApp1.Services.Interfaces.csproj" />
+  </ItemGroup>
+</Project>

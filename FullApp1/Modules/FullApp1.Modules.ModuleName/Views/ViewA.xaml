@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="FullApp1.Modules.ModuleName.Views.ViewA"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:FullApp1.Modules.ModuleName.Views"
+             xmlns:prism="http://prismlibrary.com/"
+xmlns:ll="clr-namespace:FullApp1.Core;assembly=FullApp1.Core"
+             
+             prism:ViewModelLocator.AutoWireViewModel="True" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="{Binding Message}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="24"/>
+
+
+        <TextBlock Grid.Row="1" Text="{ll:LocalizedLang TB_KEY}"></TextBlock>
+
+
+        <TextBlock Grid.Row="2" Text="{Binding Message1}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="24"/>
+
+        <Button Grid.Row="3" Click="Button_Click">跳转</Button>
+    </Grid>
+</UserControl>

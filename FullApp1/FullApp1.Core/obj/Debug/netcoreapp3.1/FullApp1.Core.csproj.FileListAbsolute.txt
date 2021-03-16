@@ -1,0 +1,14 @@
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\bin\Debug\netcoreapp3.1\FullApp1.Core.deps.json
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\bin\Debug\netcoreapp3.1\FullApp1.Core.dll
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\bin\Debug\netcoreapp3.1\FullApp1.Core.pdb
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.csprojAssemblyReference.cache
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.AssemblyInfoInputs.cache
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.AssemblyInfo.cs
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.csproj.CoreCompileInputs.cache
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.dll
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.pdb
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\bin\Debug\netcoreapp3.1\zh-CN\FullApp1.Core.resources.dll
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.Resources.String.Resource.resources
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.Resources.String.Resource.zh-CN.resources
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\FullApp1.Core.csproj.GenerateResource.cache
+C:\Users\leus\Downloads\WPFMultiLanguage(XmlDataProvider)\FullApp1\FullApp1.Core\obj\Debug\netcoreapp3.1\zh-CN\FullApp1.Core.resources.dll

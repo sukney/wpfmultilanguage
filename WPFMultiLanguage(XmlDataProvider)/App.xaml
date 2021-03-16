@@ -1,0 +1,11 @@
+﻿<Application x:Class="WPFMultiLanguage_XmlDataProvider_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFMultiLanguage_XmlDataProvider_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <XmlDataProvider x:Key="Lang" Source="Languages/Chinese.xml" XPath="language/resources" IsAsynchronous="False"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

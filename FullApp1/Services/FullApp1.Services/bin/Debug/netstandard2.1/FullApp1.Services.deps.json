@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "FullApp1.Services/1.0.0": {
+        "dependencies": {
+          "FullApp1.Services.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "FullApp1.Services.dll": {}
+        }
+      },
+      "FullApp1.Services.Interfaces/1.0.0": {
+        "runtime": {
+          "FullApp1.Services.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FullApp1.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FullApp1.Services.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
